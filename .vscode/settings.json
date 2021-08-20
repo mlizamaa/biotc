@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "biotc.h": "c",
+        "ctype.h": "c",
+        "stdio.h": "c"
+    }
+}
