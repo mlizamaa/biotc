@@ -1,2 +1,5 @@
-BIOTC
-Benio IOT Controller es una librería para comunicarse con la api benito-ino para el intercambio de datos de datos e instrucciones.
+#BIOTC
+Benio IOT Controller es una librería para comunicarse con la api REST benito-ino.
+
+## Resumen
+Este programa es un cliente de la api y sirve para tener acceso a datos de monitoreo capturados por esta.
